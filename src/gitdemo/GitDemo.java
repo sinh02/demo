@@ -19,8 +19,10 @@ public class GitDemo {
     public static void main(String[] args) {
         // TODO code application logic here
         int a = 4;
+        int c;
         Scanner scanner = new Scanner(System.in);
-        System.out.printf("a: %d",a);       
+        System.out.printf("a: %d",a);    
+
     }
     
 }
