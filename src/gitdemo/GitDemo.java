@@ -5,6 +5,8 @@
  */
 package gitdemo;
 
+import java.util.Scanner;
+
 /**
  *
  * @author admin
@@ -16,6 +18,9 @@ public class GitDemo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int a = 4;
+        Scanner scanner = new Scanner(System.in);
+        System.out.printf("a: %d",a);       
     }
     
 }
